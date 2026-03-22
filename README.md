@@ -1,9 +1,11 @@
 <div align="center">
 
-![CYSEC](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=72&duration=0&pause=0&color=FF0000&center=true&vCenter=true&width=500&height=100&lines=CYSEC)
-
-### `CY` — grey · `SEC` — red
-**CYBERSECURITY**
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="120" viewBox="0 0 500 120">
+  <rect width="500" height="120" fill="#0d1117"/>
+  <text x="30" y="75" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="#555555" letter-spacing="-2">CY</text>
+  <text x="165" y="75" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="#cc0000" letter-spacing="-2">SEC</text>
+  <text x="32" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="300" fill="#444444" letter-spacing="8">CYBERSECURITY</text>
+</svg>
 
 </div>
 
