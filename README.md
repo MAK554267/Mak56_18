@@ -1,13 +1,11 @@
 <div align="center">
- 
-```
-██████╗██╗   ██╗███████╗███████╗ ██████╗
-██╔════╝╚██╗ ██╔╝██╔════╝██╔════╝██╔════╝
-██║      ╚████╔╝ ███████╗█████╗  ██║     
-██║       ╚██╔╝  ╚════██║██╔══╝  ██║     
-╚██████╗   ██║   ███████║███████╗╚██████╗
- ╚═════╝   ╚═╝   ╚══════╝╚══════╝ ╚═════╝
-```
+
+![CYSEC](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=72&duration=0&pause=0&color=FF0000&center=true&vCenter=true&width=500&height=100&lines=CYSEC)
+
+### `CY` — grey · `SEC` — red
+**CYBERSECURITY**
+
+</div>
 
 ### Muhammad Azfar Waqas (Mak)
 **Cybersecurity Student · Offensive Security · Hardware Hacking · Digital Forensics**
